@@ -6,8 +6,8 @@ export const pools: Pool[] = [
     "name": "Piscina de Niños",
     "location": "Zona Infantil",
     "description": "Piscina interactiva con juegos y poca profundidad.",
-    "panoramaUrl": "/newassets/piscina-infantil.png",
-    "thumbnailUrl": "/newassets/piscina-infantil.png",
+    "panoramaUrl": "/newassets/piscina-infantil.webp",
+    "thumbnailUrl": "/newassets/piscina-infantil-360.webp",
     "tags": [
       "Infantil",
       "Juegos"
@@ -25,8 +25,8 @@ export const pools: Pool[] = [
     "name": "Piscina Adultos 1",
     "location": "Zona Principal",
     "description": "Piscina recreativa amplia para adultos.",
-    "panoramaUrl": "/newassets/piscina-olas.png",
-    "thumbnailUrl": "/newassets/piscina-olas.png",
+    "panoramaUrl": "/newassets/piscina-olas.webp",
+    "thumbnailUrl": "/newassets/piscina-olas-360.webp",
     "tags": [
       "Adultos",
       "Recreación"
@@ -43,8 +43,8 @@ export const pools: Pool[] = [
     "name": "Piscina Adultos 2 (Infinita)",
     "location": "Zona VIP",
     "description": "Piscina infinita exclusiva.",
-    "panoramaUrl": "/newassets/piscina-olas.png",
-    "thumbnailUrl": "/newassets/piscina-olas.png",
+    "panoramaUrl": "/newassets/piscina-olas.webp",
+    "thumbnailUrl": "/newassets/piscina-olas-360.webp",
     "tags": [
       "Adultos",
       "Infinita"
@@ -61,8 +61,8 @@ export const pools: Pool[] = [
     "name": "Piscina Adultos 3 (Termal)",
     "location": "Spa",
     "description": "Piscina termal interior para relajación.",
-    "panoramaUrl": "/newassets/piscina-olas.png",
-    "thumbnailUrl": "/newassets/piscina-olas.png",
+    "panoramaUrl": "/newassets/piscina-olas.webp",
+    "thumbnailUrl": "/newassets/piscina-olas-360.webp",
     "tags": [
       "Termal",
       "Relajación"
@@ -79,8 +79,8 @@ export const pools: Pool[] = [
     "name": "Piscina de Olas",
     "location": "Parque Acuático",
     "description": "Gran piscina con sistema de olas artificiales y playa de arena.",
-    "panoramaUrl": "/newassets/piscina-olas.png",
-    "thumbnailUrl": "/newassets/piscina-olas.png",
+    "panoramaUrl": "/newassets/piscina-olas.webp",
+    "thumbnailUrl": "/newassets/piscina-olas-360.webp",
     "tags": [
       "Olas",
       "Diversión"
@@ -97,8 +97,8 @@ export const pools: Pool[] = [
     "name": "Zona Toboganes (Tobogán)",
     "location": "Parque Acuático",
     "description": "Tobogán rápido con caída libre.",
-    "panoramaUrl": "/newassets/tobogan-piscina-1.png",
-    "thumbnailUrl": "/newassets/tobogan-piscina-1.png",
+    "panoramaUrl": "/newassets/tobogan-piscina-1.webp",
+    "thumbnailUrl": "/newassets/tobogan-piscina-1-360.webp",
     "tags": [
       "Extremo",
       "Tobogán"
@@ -115,8 +115,8 @@ export const pools: Pool[] = [
     "name": "Zona Toboganes (Inodoro)",
     "location": "Parque Acuático",
     "description": "Atracción tipo embudo gigante.",
-    "panoramaUrl": "/newassets/bowl-slide.png",
-    "thumbnailUrl": "/newassets/bowl-slide.png",
+    "panoramaUrl": "/newassets/bowl-slide.webp",
+    "thumbnailUrl": "/newassets/bowl-slide-360.webp",
     "tags": [
       "Extremo",
       "Embudo"
@@ -133,8 +133,8 @@ export const pools: Pool[] = [
     "name": "Zona Toboganes (Luisita)",
     "location": "Parque Infantil Acuático",
     "description": "Tobogán mediano y seguro.",
-    "panoramaUrl": "/newassets/tobogan-piscina-3.png",
-    "thumbnailUrl": "/newassets/tobogan-piscina-3.png",
+    "panoramaUrl": "/newassets/tobogan-piscina-3.webp",
+    "thumbnailUrl": "/newassets/tobogan-piscina-3-360.webp",
     "tags": [
       "Familiar",
       "Tobogán"
@@ -151,8 +151,8 @@ export const pools: Pool[] = [
     "name": "Gimnasio",
     "location": "Centro Deportivo",
     "description": "Gimnasio completamente dotado con zona de cardio y pesas.",
-    "panoramaUrl": "/newassets/gym.png",
-    "thumbnailUrl": "/newassets/gym.png",
+    "panoramaUrl": "/newassets/gym.webp",
+    "thumbnailUrl": "/newassets/gym-360.webp",
     "tags": [
       "Fitness",
       "Salud"
@@ -169,8 +169,8 @@ export const pools: Pool[] = [
     "name": "Baño Turco",
     "location": "Zona Húmeda",
     "description": "Baño de vapor relajante y saludable.",
-    "panoramaUrl": "/newassets/bano-turco.png",
-    "thumbnailUrl": "/newassets/bano-turco.png",
+    "panoramaUrl": "/newassets/bano-turco.webp",
+    "thumbnailUrl": "/newassets/bano-turco-360.webp",
     "tags": [
       "Relajación",
       "Vapor"
@@ -187,8 +187,8 @@ export const pools: Pool[] = [
     "name": "Sauna Privado",
     "location": "Zona Húmeda",
     "description": "Sauna seco en madera, completamente cerrado.",
-    "panoramaUrl": "/newassets/turco.png",
-    "thumbnailUrl": "/newassets/turco.png",
+    "panoramaUrl": "/newassets/turco.webp",
+    "thumbnailUrl": "/newassets/turco-360.webp",
     "tags": [
       "Relajación",
       "Calor Seco"
@@ -205,8 +205,8 @@ export const pools: Pool[] = [
     "name": "Cancha Microfútbol Sintética",
     "location": "Complejo Deportivo",
     "description": "Cancha sintética de microfútbol con cerramiento perimetral de seguridad e iluminación LED.",
-    "panoramaUrl": "/newassets/micro-sintetica.png",
-    "thumbnailUrl": "/newassets/micro-sintetica.png",
+    "panoramaUrl": "/newassets/micro-sintetica.webp",
+    "thumbnailUrl": "/newassets/micro-sintetica-360.webp",
     "tags": [
       "Deportes",
       "Sintética",
@@ -225,8 +225,8 @@ export const pools: Pool[] = [
     "name": "Coliseo Microfútbol Cubierto",
     "location": "Complejo Deportivo",
     "description": "Moderna cancha techada en coliseo con gramilla sintética de alta amortiguación.",
-    "panoramaUrl": "/newassets/cubierta.png",
-    "thumbnailUrl": "/newassets/cubierta.png",
+    "panoramaUrl": "/newassets/cubierta.webp",
+    "thumbnailUrl": "/newassets/cubierta-360.webp",
     "tags": [
       "Deportes",
       "Cubierta",
@@ -245,8 +245,8 @@ export const pools: Pool[] = [
     "name": "Cancha de Fútbol 11",
     "location": "Complejo Deportivo",
     "description": "Campo de fútbol reglamentario en césped natural con graderías e iluminación profesional.",
-    "panoramaUrl": "/newassets/futbol-11.png",
-    "thumbnailUrl": "/newassets/futbol-11.png",
+    "panoramaUrl": "/newassets/futbol-11.webp",
+    "thumbnailUrl": "/newassets/futbol-11-360.webp",
     "tags": [
       "Deportes",
       "Fútbol 11",
@@ -265,8 +265,8 @@ export const pools: Pool[] = [
     "name": "Cancha de Pádel Panorámica",
     "location": "Complejo Deportivo",
     "description": "Pista de pádel con césped azul de última generación y cerramiento en cristal templado.",
-    "panoramaUrl": "/newassets/padel.png",
-    "thumbnailUrl": "/newassets/padel.png",
+    "panoramaUrl": "/newassets/padel.webp",
+    "thumbnailUrl": "/newassets/padel-360.webp",
     "tags": [
       "Deportes",
       "Pádel",
@@ -285,8 +285,8 @@ export const pools: Pool[] = [
     "name": "Cancha de Tenis (Polvo de Ladrillo)",
     "location": "Complejo Deportivo",
     "description": "Cancha de tenis en polvo de ladrillo de estándar internacional.",
-    "panoramaUrl": "/newassets/tenis.png",
-    "thumbnailUrl": "/newassets/tenis.png",
+    "panoramaUrl": "/newassets/tenis.webp",
+    "thumbnailUrl": "/newassets/tenis-360.webp",
     "tags": [
       "Deportes",
       "Tenis",
@@ -305,8 +305,8 @@ export const pools: Pool[] = [
     "name": "Polideportivo 1",
     "location": "Complejo Deportivo",
     "description": "Cancha múltiple para varios deportes.",
-    "panoramaUrl": "/newassets/poli-multi.png",
-    "thumbnailUrl": "/newassets/poli-multi.png",
+    "panoramaUrl": "/newassets/poli-multi.webp",
+    "thumbnailUrl": "/newassets/poli-multi-360.webp",
     "tags": [
       "Deportes",
       "Múltiple"
@@ -324,8 +324,8 @@ export const pools: Pool[] = [
     "name": "Polideportivo 2",
     "location": "Complejo Deportivo",
     "description": "Cancha múltiple adicional.",
-    "panoramaUrl": "/newassets/poli-basket.png",
-    "thumbnailUrl": "/newassets/poli-basket.png",
+    "panoramaUrl": "/newassets/poli-basket.webp",
+    "thumbnailUrl": "/newassets/poli-basket-360.webp",
     "tags": [
       "Deportes",
       "Múltiple"

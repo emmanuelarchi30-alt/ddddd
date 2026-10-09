@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { mockServices } from '@/lib/storefront/mock/services';
 import { getAvailabilityForDate, TimeSlotAvailability } from '@/lib/storefront/api/availability';
-import PanoramaModal from '@/components/tour/PanoramaModal';
+import Tour360 from '@/components/tour/Tour360';
 import PanningImage from '@/components/tour/PanningImage';
 import AmbientBubbles from '@/components/AmbientBubbles';
 import SectionDivider from '@/components/SectionDivider';
@@ -173,11 +173,11 @@ export default function ServiceDetailPage({ params }: ServiceDetailPageProps) {
                   <span>Fotografía del espacio:</span>
                 </span>
                 <div className="flex items-center gap-3">
-                  <span className="text-[11px] text-white/40 hidden sm:inline">Toca la imagen para ampliarla</span>
+                  <span className="text-[11px] text-white/40 hidden sm:inline">Toca la imagen para recorrerla en 360°</span>
                 </div>
               </div>
               <div className="w-full h-80 rounded-2xl overflow-hidden bg-black shadow-inner border border-white/10">
-                <PanoramaModal src={service.panoramaUrl} title={service.name} subtitle={service.categoryName} trigger={
+                <Tour360 src={service.panoramaUrl} title={service.name} subtitle={service.categoryName} trigger={
                   <PanningImage src={service.image} alt={service.name} />
                 } />
               </div>
